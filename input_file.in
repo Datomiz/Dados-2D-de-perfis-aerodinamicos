@@ -1,0 +1,13 @@
+LOAD PontosPerfis/BELL540.dat
+PontosPerfis/BELL540
+PANE
+OPER
+Visc 1285000
+PACC
+OutputXfoil/Dados_do_perfil_BELL540_Re_1285000.txt
+
+ITER 100
+ASeq -2 19 1
+
+
+quit
